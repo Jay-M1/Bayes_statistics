@@ -1,1 +1,1 @@
-Series of problems solved concerning Bayes statistics during the winter term 2024/25 at KIT 
+Series of problems on Bayes statistics during the winter term of 2024/2025 at KIT 
